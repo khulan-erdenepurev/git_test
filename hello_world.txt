@@ -12,7 +12,6 @@ Commands related to checking status or log history:
 
 The basic Git syntax is program | action | destination.
 for example,
-
     git add . 
         git | add | ., where the period represents everything in the current directory;
     git commit -m "message"
